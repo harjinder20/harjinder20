@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **hrjinder.kalra@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:<a href="https://www.linkedin.com/in/harjinder-singh-963ba51a0"></a></h3>
 <p align="left">
 </p>
 
