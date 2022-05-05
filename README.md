@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harjinder Singh</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
-- 💬 Ask me about **react, node**
+- 💬 Ask me about **react, node, JavaScript and specially React-Native**
 
 - 📫 How to reach me **hrjinder.kalra@gmail.com**
 
